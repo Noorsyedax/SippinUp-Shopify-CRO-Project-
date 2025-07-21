@@ -48,22 +48,6 @@ The client's existing Shopify store required targeted improvements to:
 * **Browser Developer Tools:** For inspecting and debugging theme-specific CSS.
 * **(Optional) Figma/Canva/Photoshop:** For creating any custom banner images/graphics.
 
-## Screenshots / Live Demo
-
-* **Before & After Comparison:**
-    * [Insert "Before" Screenshot Link Here]
-    * [Insert "After" Screenshot Link Here]
-* **BOGO Banner (Desktop & Mobile):**
-    * [Insert BOGO Banner Desktop Screenshot Link]
-    * [Insert BOGO Banner Mobile Screenshot Link]
-* **Reviews Section (Desktop & Mobile):**
-    * [Insert Reviews Section Desktop Screenshot Link]
-    * [Insert Reviews Section Mobile Screenshot Link]
-* **Styled Footer:**
-    * [Insert Footer Screenshot Link]
-* **(Optional - Highly Recommended) Video Walkthrough:**
-    * [Insert Link to a polished video demonstrating the features (e.g., Loom, YouTube)]
-
 ## Learnings & Challenges
 
 * **Theme Specificity:** Navigating and overriding stubborn default theme CSS required precise use of browser developer tools and targeted selectors (`!important` where necessary).
